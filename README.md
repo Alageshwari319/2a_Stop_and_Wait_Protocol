@@ -12,7 +12,8 @@ To write a python program to perform stop and wait protocol
 
 Client:
 
-![Screenshot 21-03-2025 14_18_16](https://github.com/user-attachments/assets/11e7b6ac-12e4-4721-8a9e-019235f46c5c)
+![IDLE (Python 3 12) 21-03-2025 14_35_50](https://github.com/user-attachments/assets/933bd212-bce0-463c-bcb4-f2a1e9035178)
+
 
 
 Server:
